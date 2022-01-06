@@ -4,6 +4,10 @@
 </div>
 
 ##
+<div align="left">
+  <a href="https://github.com/ifLeozao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifLeozao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div> 
  
