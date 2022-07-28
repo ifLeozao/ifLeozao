@@ -2,6 +2,7 @@
 </div>
 <a href="https://www.instagram.com/leozaobrunhetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-brunhetti-da-silva-239914206/?originalSubdomain=br" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Brunhetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
