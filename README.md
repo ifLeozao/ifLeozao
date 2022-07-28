@@ -5,6 +5,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifLeozao&layout=compact&langs_count=7&theme=dracula"/>
      <img align="left" alt="Gif" src="http://pa1.narvii.com/6448/7f71f016965d270a4071f2f20942524a0095627c_00.gif" height="150"  >
 </div>
+<div align="center">
+  <a href="https://github.com/ifleozao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifleozao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifleozao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 </div>
 <a href="https://www.instagram.com/leozaobrunhetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
