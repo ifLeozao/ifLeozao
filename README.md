@@ -6,7 +6,7 @@
      <img align="left" alt="Gif" src="http://pa1.narvii.com/6448/7f71f016965d270a4071f2f20942524a0095627c_00.gif" height="150"  >
 </div>
 </div>
-<a href="https://www.instagram.com/leozaobrunhetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/leobrunhetti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-brunhetti-da-silva-239914206/?originalSubdomain=br" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
